@@ -25,6 +25,5 @@ Para utilizar la aplicación, sigue estos pasos:
 1. Ejecuta la clase Main.
 2. Se mostrará un menú con las opciones disponibles.
 3. Selecciona la opción de conversión de monedas.
-4. Ingresa la moneda de origen (Moneda A) y la moneda de destino (Moneda B).
-5. Ingresa el valor inicial a convertir.
-6. La aplicación calculará y mostrará el valor convertido.
+4. Ingresa el valor inicial a convertir.
+5. La aplicación calculará y mostrará el valor convertido.
